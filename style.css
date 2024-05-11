@@ -1,0 +1,32 @@
+.payment-method {
+    margin-top: 20px;
+  }
+  .payment-method .col-md-4 {
+    margin-bottom: 20px;
+  }
+  .credit-card-icon {
+    color: #007bff; /* Biru */
+  }
+  .cash-icon {
+    color: #28a745; /* Hijau */
+  }
+  .bank-transfer-icon {
+    color: #dc3545; /* Merah */
+  }
+  .debit-card-icon {
+    color: #ffc107; /* Kuning */
+  }
+  .mobile-wallet-icon {
+    color: #17a2b8; /* Cyan */
+  }
+  .cryptocurrency-icon {
+    color: #6610f2; /* Ungu */
+  }
+
+  .footer {
+    background-color: #214569;;
+    padding: 20px;
+    text-align: center;
+  }
+
+  
