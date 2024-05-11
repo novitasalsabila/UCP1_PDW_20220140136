@@ -1,1 +1,1 @@
-WEBSITE JOKI-IN AJA
+WEBSITE JOKI-IN AJA adalah situs yang menawarkan layanan jasa joki tugas, terutama untuk mahasiswa dari tingkat SMA hingga perguruan tinggi. Situs ini menekankan pada kemudahan dan kecepatan dalam menyelesaikan berbagai jenis tugas, seperti makalah, presentasi, ringkasan kegiatan, review film, dan bahkan bantuan untuk skripsi.
